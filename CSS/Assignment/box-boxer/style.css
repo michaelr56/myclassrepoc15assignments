@@ -6,4 +6,22 @@ div {
   margin-left: 10px;
   background-clip: content-box;
 }
+#first{
+padding: 10px;
+margin: 0;
+}
 
+#second{
+padding: 40px 65px;
+margin: 75px 0 0 0;
+}
+
+#third{
+ padding: 20px 25px 50px 25px;
+  margin:6px 0 0;
+}
+
+#fourth{
+  padding:12px 120px 40px 150px;
+  margin: 120px 0 0 0;
+}
